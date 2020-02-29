@@ -24,11 +24,6 @@
         <artifactId>azure-webapp-maven-plugin</artifactId>
         <version>1.8.0</version>
         <configuration>
-          <schemaVersion>V2</schemaVersion>
-          <resourceGroup>helloworld-1582950127293-rg</resourceGroup>
-          <appName>helloworld-1582950127293</appName>
-          <pricingTier>P1v2</pricingTier>
-          <region>westeurope</region>
           <runtime>
             <os>linux</os>
             <javaVersion>jre8</javaVersion>
